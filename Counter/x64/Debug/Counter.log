@@ -1,0 +1,4 @@
+﻿  Counter.cpp
+C:\Users\gavrilov.e\Documents\с+ project\HW3\Counter\Counter.cpp(41,23): error C2065: Test: необъявленный идентификатор
+C:\Users\gavrilov.e\Documents\с+ project\HW3\Counter\Counter.cpp(42,29): error C2065: Test: необъявленный идентификатор
+C:\Users\gavrilov.e\Documents\с+ project\HW3\Counter\Counter.cpp(43,42): error C2065: Test: необъявленный идентификатор

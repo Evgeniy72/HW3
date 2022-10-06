@@ -1,13 +1,10 @@
 ﻿#include <iostream>
-
-int main()
-{
-	setlocale(LC_ALL, "Russian");
 	class Calculator
 	{
-	public:
+	private:
 		double num1;
 		double num2;
+	public:
 		double add() { return(num1 + num2); }
 		double multiply() { return(num1 * num2); }
 		double subtract_1_2() { return(num2 - num1); }
@@ -24,6 +21,10 @@ int main()
 			else { return false; }
 		}
 	};
+
+int main()
+{
+	setlocale(LC_ALL, "Russian");
 
 	Calculator test;
 	double num1;
